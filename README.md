@@ -5,6 +5,9 @@ description
 HTML
 On the HTML file I added an id to "search-engine-optimization" to ensure the links are connected to the proper section of the page. At first only the "online-reputation-management" and "social-media-marketing" were routing to the correct section. (Line 32)
 
+![image](https://user-images.githubusercontent.com/87885450/127422365-a6565be8-6486-408d-bdaf-e7db1c5935d3.png)
+
+
 For each of the images besides the background image, I created an alt description (Lines 33,40,47) . 
 
 changed class to "search-online-social_media-services" so we could simplify the css class. (Line 32,39,46)
