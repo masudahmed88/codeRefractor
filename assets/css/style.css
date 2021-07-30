@@ -108,14 +108,14 @@ Commented these out as margin bottom and color were added to the above "benefits
 */
 
 /* Deleted .benefit-lead, .benefit-brand,
- .benefit-cost since i added the properties onto benefits class */
+ .benefit-cost since i added the properties onto benefits h3 class */
  .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* commented out benefit brand and benefit-cost as it was redundant, also linked 
-these to the benefits class*/
+these to the benefits img class*/
 .benefits img {
     display: block;
     margin: 10px auto;
